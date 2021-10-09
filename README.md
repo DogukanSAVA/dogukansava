@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Dogukan  👋 </h1>
 <img align="center" alt="GIF" src="https://media2.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=790b7611096cbc06d221a5e9dadfaf519da56c3fe84d1150&rid=giphy.gif&ct=g" width="400" height="250" />
-<h4 align="left"> I'm a Frontend Developer  </h4>
+<h4 align="left"> I'm a Frontend Developer & Graphic Design  </h4>
 <h4 align="left">Welcome to my Github Profile! </h4>
 <p align="left">
 
